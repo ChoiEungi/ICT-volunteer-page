@@ -14,6 +14,9 @@
   font-size: 15px;
  
 }
+body{
+  margin: 0 0;
+}
 .syllabus-container{
   padding-left: 30px;
   display: flex;
@@ -53,7 +56,7 @@
   font-weight: 550;
 }
 .tesk-list ul li span:hover{
-  color: blue;
+  color: black;
   font-weight: 700;
 }
 .indexed-container{
